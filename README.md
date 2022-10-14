@@ -25,6 +25,13 @@ connection.close()
 ```
 2. Setup an app passwords
 ```
+![App-Pass](https://github.com/NowshadRuhan/Send-Email-With-Python/blob/main/app_pass.png?raw=true) 
 
 
-![G.your-QR-Code](https://github.com/NowshadRuhan/QR-Code-With-Python/blob/main/QRCode1.png?raw=true) 
+## Code:
+![Code](https://github.com/NowshadRuhan/Send-Email-With-Python/blob/main/code1.png?raw=true) 
+
+
+## Email:
+![Email](https://github.com/NowshadRuhan/Send-Email-With-Python/blob/main/email1.png?raw=true) 
+
